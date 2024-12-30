@@ -1,0 +1,6 @@
+com/pelatro/automation/validationOfLogin/utils/Assertion.class
+com/pelatro/automation/validationOfLogin/utils/sshRemoteExampleUserInfo.class
+com/pelatro/automation/validationOfLogin/generic/Page.class
+com/pelatro/automation/validationOfLogin/login/LoginPage.class
+com/pelatro/automation/validationOfLogin/utils/RemoteServerProperties.class
+com/pelatro/automation/validationOfLogin/utils/ConnectRemoteServer.class

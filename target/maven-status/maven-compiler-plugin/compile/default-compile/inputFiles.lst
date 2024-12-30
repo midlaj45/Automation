@@ -1,0 +1,6 @@
+/home/pelatro/automation/validationOfLogin/src/main/java/com/pelatro/automation/validationOfLogin/generic/Page.java
+/home/pelatro/automation/validationOfLogin/src/main/java/com/pelatro/automation/validationOfLogin/login/LoginPage.java
+/home/pelatro/automation/validationOfLogin/src/main/java/com/pelatro/automation/validationOfLogin/utils/sshRemoteExampleUserInfo.java
+/home/pelatro/automation/validationOfLogin/src/main/java/com/pelatro/automation/validationOfLogin/utils/RemoteServerProperties.java
+/home/pelatro/automation/validationOfLogin/src/main/java/com/pelatro/automation/validationOfLogin/utils/ConnectRemoteServer.java
+/home/pelatro/automation/validationOfLogin/src/main/java/com/pelatro/automation/validationOfLogin/utils/Assertion.java
